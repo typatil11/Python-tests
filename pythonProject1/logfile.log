@@ -1,0 +1,16 @@
+2023-09-19 12:57:39,333 : INFO : test_logging : information messages 
+2023-09-19 12:57:39,333 : WARNING : test_logging : wardingnikndingfi 
+2023-09-19 12:57:39,333 : ERROR : test_logging : error messafe 
+2023-09-19 12:57:39,333 : CRITICAL : test_logging : set issue 
+2023-09-20 13:14:24,806 : INFO : test_logging : information messages 
+2023-09-20 13:14:24,806 : WARNING : test_logging : wardingnikndingfi 
+2023-09-20 13:14:24,806 : ERROR : test_logging : error messafe 
+2023-09-20 13:14:24,806 : CRITICAL : test_logging : set issue 
+2023-09-20 13:17:23,870 : INFO : test_logging : information messages 
+2023-09-20 13:17:23,870 : WARNING : test_logging : wardingnikndingfi 
+2023-09-20 13:17:23,870 : ERROR : test_logging : error messafe 
+2023-09-20 13:17:23,871 : CRITICAL : test_logging : set issue 
+2023-09-22 12:46:30,191 : INFO : test_logging : information messages 
+2023-09-22 12:46:30,198 : WARNING : test_logging : wardingnikndingfi 
+2023-09-22 12:46:30,198 : ERROR : test_logging : error messafe 
+2023-09-22 12:46:30,198 : CRITICAL : test_logging : set issue 

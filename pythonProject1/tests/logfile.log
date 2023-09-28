@@ -1,0 +1,32 @@
+2023-09-25 14:37:49,511 :INFO : test_e2e :Getting all card titles
+2023-09-25 14:37:49,559 :INFO : test_e2e :iphone X
+2023-09-25 14:37:49,571 :INFO : test_e2e :Samsung Note 8
+2023-09-25 14:37:49,582 :INFO : test_e2e :Nokia Edge
+2023-09-25 14:37:49,593 :INFO : test_e2e :Blackberry
+2023-09-25 14:37:49,914 :INFO : test_e2e :Entering Country Name
+2023-09-25 14:37:55,629 :INFO : test_e2e :Text recieved from application is ×
+Success! Thank you! Your order will be delivered in next few weeks :-).
+2023-09-25 18:08:56,997 :INFO : test_e2e :Getting all card titles
+2023-09-25 18:08:57,039 :INFO : test_e2e :iphone X
+2023-09-25 18:08:57,051 :INFO : test_e2e :Samsung Note 8
+2023-09-25 18:08:57,063 :INFO : test_e2e :Nokia Edge
+2023-09-25 18:08:57,075 :INFO : test_e2e :Blackberry
+2023-09-25 18:08:57,383 :INFO : test_e2e :Entering Country Name
+2023-09-25 18:09:02,990 :INFO : test_e2e :Text recieved from application is ×
+Success! Thank you! Your order will be delivered in next few weeks :-).
+2023-09-25 18:18:31,489 :INFO : test_e2e :Getting all card titles
+2023-09-25 18:18:31,533 :INFO : test_e2e :iphone X
+2023-09-25 18:18:31,544 :INFO : test_e2e :Samsung Note 8
+2023-09-25 18:18:31,560 :INFO : test_e2e :Nokia Edge
+2023-09-25 18:18:31,576 :INFO : test_e2e :Blackberry
+2023-09-25 18:18:31,959 :INFO : test_e2e :Entering Country Name
+2023-09-25 18:18:37,583 :INFO : test_e2e :Text recieved from application is ×
+Success! Thank you! Your order will be delivered in next few weeks :-).
+2023-09-25 18:31:07,919 :INFO : test_e2e :Getting all card titles
+2023-09-25 18:31:07,961 :INFO : test_e2e :iphone X
+2023-09-25 18:31:07,971 :INFO : test_e2e :Samsung Note 8
+2023-09-25 18:31:07,983 :INFO : test_e2e :Nokia Edge
+2023-09-25 18:31:07,994 :INFO : test_e2e :Blackberry
+2023-09-25 18:31:08,258 :INFO : test_e2e :Entering Country Name
+2023-09-25 18:31:13,837 :INFO : test_e2e :Text recieved from application is ×
+Success! Thank you! Your order will be delivered in next few weeks :-).
